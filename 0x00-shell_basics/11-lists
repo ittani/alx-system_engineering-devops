@@ -2,3 +2,4 @@
 ls -a
 ls -al . ../boot
 ls -al . .. /boot
+ls -al . .. /boot
