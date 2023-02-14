@@ -1,1 +1,1 @@
-My Read Me
+Create a script that create an alias. 
